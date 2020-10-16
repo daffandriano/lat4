@@ -1,0 +1,389 @@
+* {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 191.83px;
+	padding-top: 50px;
+}
+
+h2 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 95.94px;	
+}
+
+h3 {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 33.94px;
+	margin-top: 110px;
+}
+
+h5 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.99px;
+	margin-top: 70px;	
+}
+
+h6 {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: italic;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.notes {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 16.97px;
+	text-align: right;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-top: 80px;
+
+}
+
+p {
+	float: left;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	margin-top: 20px;
+	text-indent: 60px;	
+}
+
+.crosshead {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.99px;
+	margin-bottom: 5px;	
+}
+
+.answer {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	text-align: center;	
+}
+
+li {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	margin-bottom:20px;
+}
+
+.small {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	text-indent: 60px;
+}
+
+.close {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	text-indent: 0px !important;
+	margin-top: 100px;	
+}
+
+.home {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	margin-top: 10px;
+	padding-bottom: 15px;
+	margin-left: 35%;
+	float: left;
+	color: white;
+}
+
+.homee {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	position: fixed;
+	margin-top: 10px;
+	margin-left: 55%;
+	float: left;
+	color: white;
+}
+
+.smalll1 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.99px;
+	margin-bottom: 5px;	
+}
+
+.smalll2 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 33.94px;
+	margin-bottom: 5px;	
+}
+
+.thirdd {
+	float: left;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 16.97px;
+	text-align: right;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-top: 50px;	
+}
+
+.senten {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;	
+}
+
+.extra {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	padding-top: 270px;	
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	text-align: left;
+}
+
+.closse {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	padding-top: 250px;
+}
+
+@media (max-width: 340px) {
+h1 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 112.18px;
+	padding-top: 60px;
+	line-height: 80px;
+	word-break: break-all;
+}
+
+h2 {
+	margin-top: 30px;
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 63.13px;
+	line-height: 50px;	
+}
+
+h3 {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 26.65px;
+	margin-top: 110px;
+}
+
+h5 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.99px;
+	margin-top: 360px;	
+}
+
+h6 {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+.notes {
+	margin-top: 60px;
+	margin-right: 15px;
+	margin-left: 15px;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 11.25px;
+	text-align: left;
+
+}
+
+p {
+	float: left;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	margin-top: 20px;
+	text-indent: 60px;	
+}
+
+.crosshead {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.36px;
+	margin-bottom: 1px;
+	margin-top: 0px;	
+}
+
+.answer {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	text-align: center;	
+}
+
+li {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	margin-bottom:20px;
+}
+
+.small {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	text-indent: 60px;
+}
+
+.close {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 20px;
+	text-indent: 0px !important;
+	margin-top: 100px;	
+}
+
+.home {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 15px;
+	margin-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 50px;
+	float: left;
+	color: white;
+}
+
+.homee {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 15px;
+	position: fixed;
+	margin-top: 15px;
+	margin-left: 200px;
+	float: left;
+	color: white;
+}
+
+.smalll1 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 47.99px;
+	margin-bottom: 5px;	
+}
+
+.smalll2 {
+	font-family: adobe-arabic, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 33.94px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	line-height: 30px;
+}
+
+.thirdd {
+	margin-top: 60px;
+	margin-right: 15px;
+	margin-left: 15px;
+	float: left;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 11.25px;
+	text-align: left;	
+}
+
+.senten {
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;	
+}
+
+.extra {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 20px;
+	padding-top: 270px;	
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	text-align: left;
+}
+
+.closse {
+	font-family: Roboto, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+	padding-top: 250px;
+}
+
+}
